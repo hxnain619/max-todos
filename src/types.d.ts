@@ -1,6 +1,5 @@
 export interface TodoType {
-  id: string;
-  title: string;
-  completed: any;
-  starred: any;
+	id: string;
+	name: string;
+	profession: any;
 }
